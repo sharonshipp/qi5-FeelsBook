@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Oct 05 14:02:38 MDT 2018
+1.base=/Users/sharonshipp/Desktop/UA/CMPUT/cmput301/a1/qi5-FeelsBook/app/build/intermediates/transforms/dexMerger/debug/1
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/sharonshipp/Desktop/UA/CMPUT/cmput301/a1/qi5-FeelsBook/app/build/intermediates/transforms/dexMerger/debug/0
+1.path=classes.dex
