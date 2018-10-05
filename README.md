@@ -8,7 +8,7 @@
 
 # APK and UML Files 
 * the apk files: appapp\build\outputs\apk\debug
-* uml image file: doc\uml
+* uml image file: doc
 
 # Reference:
 * Longly Twitter: https://github.com/sharonshipp/lonelyTwitter 
