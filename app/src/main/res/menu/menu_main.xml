@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cmput301.qi5_feelsbook.MainActivity">
+    <item
+        android:id="@+id/action_list"
+        android:orderInCategory="100"
+        android:title="@string/action_list"
+        app:showAsAction="never" />
+</menu>

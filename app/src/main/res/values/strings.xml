@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">qi5-FeelsBook</string>
+    <string name="action_list">Emotion History</string>
+    <string name="action_count">Emotion Count</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="hint_comment">Write some comment&#8230;</string>
+    <string name="toast_content">Emotion Recorded Successfully</string>
+
+    <string name="emotion_love">Love</string>
+    <string name="emotion_joy">Joy</string>
+    <string name="emotion_surprise">Surprise</string>
+    <string name="emotion_anger">Anger</string>
+    <string name="emotion_sadness">Sadness</string>
+    <string name="emotion_fear">Fear</string>
+    <string-array name="emotion_catalogs">
+        <item>@string/emotion_love</item>
+        <item>@string/emotion_joy</item>
+        <item>@string/emotion_surprise</item>
+        <item>@string/emotion_anger</item>
+        <item>@string/emotion_sadness</item>
+        <item>@string/emotion_fear</item>
+    </string-array>
+</resources>
